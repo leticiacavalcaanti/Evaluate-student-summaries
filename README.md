@@ -1,4 +1,4 @@
-# Repositório para a matéria de Tópicos Especiais em Inteligência Artificial
+# Repositório para a matéria de Tópicos Especiais em Inteligência Artificial (TEIA)
 
 ## Grupo:
 - Letícia Cavalcanti
